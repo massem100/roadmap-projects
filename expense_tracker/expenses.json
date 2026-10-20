@@ -31,18 +31,6 @@
       "amount": 30.0
     },
     {
-      "id": "6",
-      "date": "2026-02-20",
-      "description": "Lunch",
-      "amount": 30.0
-    },
-    {
-      "id": "7",
-      "date": "2026-02-20",
-      "description": "Lunch",
-      "amount": 30.0
-    },
-    {
       "id": "8",
       "date": "2026-03-20",
       "description": "Lunch",
@@ -50,12 +38,15 @@
       "category": "General"
     },
     {
-      "id": "9",
-      "date": "2026-02-20",
+      "id": "7",
+      "date": "2026-02-11",
       "description": "Lunch",
-      "amount": 2.0,
+      "amount": 30.0,
       "category": "General"
     }
   ],
-  "budgets": {}
+  "budgets": {
+    "2026-02": 30.0,
+    "2026-10": 120.0
+  }
 }
