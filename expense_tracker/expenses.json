@@ -1,0 +1,52 @@
+{
+  "expenses": [
+    {
+      "id": "1",
+      "date": "2026-10-19",
+      "description": "Lunch",
+      "amount": 20.0
+    },
+    {
+      "id": "2",
+      "date": "2026-10-19",
+      "description": "Bus fare",
+      "amount": 5.0
+    },
+    {
+      "id": "3",
+      "date": "2026-10-19",
+      "description": "Lunch",
+      "amount": 30.0
+    },
+    {
+      "id": "4",
+      "date": "2026-10-19",
+      "description": "Lunch",
+      "amount": 30.0
+    },
+    {
+      "id": "5",
+      "date": "2026-10-19",
+      "description": "Lunch",
+      "amount": 30.0
+    },
+    {
+      "id": "8",
+      "date": "2026-03-20",
+      "description": "Lunch",
+      "amount": 30.0,
+      "category": "General"
+    },
+    {
+      "id": "7",
+      "date": "2026-02-11",
+      "description": "Lunch",
+      "amount": 30.0,
+      "category": "General"
+    }
+  ],
+  "budgets": {
+    "2026-02": 30.0,
+    "2026-10": 120.0
+  }
+}
